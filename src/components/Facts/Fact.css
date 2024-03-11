@@ -1,0 +1,24 @@
+.div-fact{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 500px;
+    padding: 0 20px;
+}
+
+.div-fact button{
+    border: none;
+    cursor: pointer;
+    background-color: black;
+    color:white;
+    padding: 10px;
+}
+
+.div-fact textarea{
+    resize: none; 
+}
+
+.div-spinner{
+    height: 158px;
+}
